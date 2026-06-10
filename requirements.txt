@@ -1,0 +1,16 @@
+# Cấu hình môi trường Python cho dự án Wine Quality ML Pipeline
+
+# Core Data Science
+numpy==2.2.3
+pandas==2.2.3
+
+# Visualization
+matplotlib==3.10.6
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.8.0
+
+# Advanced Models & Imbalance Handling
+lightgbm==4.6.0
+imbalanced-learn==0.14.2
