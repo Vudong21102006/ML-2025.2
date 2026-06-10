@@ -1,0 +1,14 @@
+File,Status,Expected rows
+train.csv,OK,3724
+val.csv,OK,796
+test.csv,OK,798
+train_unscaled.csv,OK,3724
+val_unscaled.csv,OK,796
+test_unscaled.csv,OK,798
+train_clf.csv,OK,3724
+val_clf.csv,OK,796
+test_clf.csv,OK,798
+train_clf_unscaled.csv,OK,3724
+val_clf_unscaled.csv,OK,796
+test_clf_unscaled.csv,OK,798
+kmeans_full_scaled.csv,OK,5318
